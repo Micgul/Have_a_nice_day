@@ -1,0 +1,13 @@
+{
+    "StageNumber": 0,
+    "StationNumber": 1,
+    "puzzle4Index": 0,
+    "bgmVol": 1.0,
+    "effectVol": 1.0,
+    "isTutorial": 1,
+    "numberOfRenew": 0,
+    "clearTime": 0.0,
+    "updatedBestLabelInGame": 0.0,
+    "knn": 4,
+    "seceret": 0
+}
